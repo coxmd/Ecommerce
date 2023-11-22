@@ -1,4 +1,4 @@
-namespace Mango.Web.Utility
+namespace Mango.Web.ApiType
 {
     public class SD
     {
